@@ -1,0 +1,80 @@
+body{
+    background-color: gray;
+}
+*{
+    margin: 0px auto ;
+}
+.container{
+    width: 500px;
+    height: 500px;
+    background-color: white;
+    
+    
+    
+}
+ .name p{
+    padding-top: 30px;
+    padding-left: 40px;
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.67);
+}
+ .name h1{
+    padding-top: 20px;
+    padding-left: 40px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+span{
+    color: green;
+
+}
+
+
+.box
+{
+    display: flex;
+    display: block;
+    border: 1px solid white;
+    width: 400px;
+    margin-top: 30px;
+    
+
+}
+.class-1{
+    display: flex;
+}
+
+.class-2{
+    display: flex;
+}
+.class-3{
+    display: flex;
+}
+.class-4{
+    display: flex;
+}
+.class-5{
+    display: flex;
+}
+i{
+    margin-top:  5px ;
+    padding-left:5px;
+    color: green;
+    
+    
+}
+
+ 
+
+button{
+    width: 250px;
+    height: 35px;
+    text-align: center;
+    margin-left: 40px;
+    border-radius: 10px;
+    border: 1px solid green;
+    background-color: green;
+    color: rgb(93, 200, 200);
+    cursor: pointer;
+    outline-color: blue;
+    margin-top: 20px;
+}
